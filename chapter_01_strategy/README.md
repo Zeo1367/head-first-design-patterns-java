@@ -38,7 +38,7 @@ Use Strategy Pattern when:
 
 Strategy Pattern has:
 
-1. Context (duck_example.ExecuteDuck class)
+1. Context (chapter_01_strategy.duck_example.ExecuteDuck class)
 2. Strategy Interface
 3. Concrete Strategies
 

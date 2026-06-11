@@ -1,4 +1,4 @@
-package payment_method.strategies;
+package chapter_01_strategy.payment_method.strategies;
 
 public class UpiPaymentStrategy implements PaymentStrategy {
 

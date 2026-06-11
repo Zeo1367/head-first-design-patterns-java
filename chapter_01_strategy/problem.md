@@ -14,9 +14,9 @@ We have different types of ducks:
 
 ```
 Duck
- ├── duck_example.model.MallardDuck
- ├── duck_example.model.RubberDuck
- └── duck_example.model.WoodenDuck
+ ├── chapter_01_strategy.duck_example.model.MallardDuck
+ ├── chapter_01_strategy.duck_example.model.RubberDuck
+ └── chapter_01_strategy.duck_example.model.WoodenDuck
 ```
 
 All ducks inherit from Duck class.
@@ -49,7 +49,7 @@ If we override methods:
 * Changes in fly behavior require changing many classes
 * Cannot change behavior at runtime
 
-### duck_example Main Problems:
+### chapter_01_strategy.duck_example Main Problems:
 
 1. Code duplication
 2. Hard to add new behavior

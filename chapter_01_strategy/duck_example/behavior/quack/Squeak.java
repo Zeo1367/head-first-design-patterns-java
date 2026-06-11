@@ -1,4 +1,4 @@
-package duck_example.behavior.quack;
+package chapter_01_strategy.duck_example.behavior.quack;
 
 public class Squeak implements QuackBehavior {
     public void quack() {

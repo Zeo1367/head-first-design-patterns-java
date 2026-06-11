@@ -1,7 +1,7 @@
-package duck_example.model;
+package chapter_01_strategy.duck_example.model;
 
-import duck_example.behavior.fly.FlyNoWay;
-import duck_example.behavior.quack.Squeak;
+import chapter_01_strategy.duck_example.behavior.fly.FlyNoWay;
+import chapter_01_strategy.duck_example.behavior.quack.Squeak;
 
 public class RubberDuck extends Duck {
 

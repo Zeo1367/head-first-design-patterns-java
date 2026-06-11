@@ -1,4 +1,4 @@
-package duck_example.behavior.fly;
+package chapter_01_strategy.duck_example.behavior.fly;
 
 public class FlyNoWay implements FlyBehavior {
     public void fly() {

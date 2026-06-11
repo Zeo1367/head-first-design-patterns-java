@@ -1,8 +1,8 @@
-package payment_method;
+package chapter_01_strategy.payment_method;
 
-import payment_method.model.CreditCardPayment;
-import payment_method.model.PaymentProcessor;
-import payment_method.model.UpiPayment;
+import chapter_01_strategy.payment_method.model.CreditCardPayment;
+import chapter_01_strategy.payment_method.model.PaymentProcessor;
+import chapter_01_strategy.payment_method.model.UpiPayment;
 
 public class MakePayment {
     public static void main(String[] args) {

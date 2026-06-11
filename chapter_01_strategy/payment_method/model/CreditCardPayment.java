@@ -1,6 +1,6 @@
-package payment_method.model;
+package chapter_01_strategy.payment_method.model;
 
-import payment_method.strategies.CreditCardPaymentStrategy;
+import chapter_01_strategy.payment_method.strategies.CreditCardPaymentStrategy;
 
 public class CreditCardPayment extends PaymentProcessor {
     public CreditCardPayment() {

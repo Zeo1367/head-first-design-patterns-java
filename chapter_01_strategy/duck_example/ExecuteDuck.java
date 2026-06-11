@@ -1,10 +1,10 @@
-package duck_example;
+package chapter_01_strategy.duck_example;
 
-import duck_example.behavior.fly.FlyRocketPowered;
-import duck_example.model.Duck;
-import duck_example.model.MallardDuck;
-import duck_example.model.RubberDuck;
-import duck_example.model.WoodenDuck;
+import chapter_01_strategy.duck_example.behavior.fly.FlyRocketPowered;
+import chapter_01_strategy.duck_example.model.Duck;
+import chapter_01_strategy.duck_example.model.MallardDuck;
+import chapter_01_strategy.duck_example.model.RubberDuck;
+import chapter_01_strategy.duck_example.model.WoodenDuck;
 
 public class ExecuteDuck {
     public static void main(String[] args) {

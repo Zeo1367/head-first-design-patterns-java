@@ -1,7 +1,7 @@
-package duck_example.model;
+package chapter_01_strategy.duck_example.model;
 
-import duck_example.behavior.fly.FlyBehavior;
-import duck_example.behavior.quack.QuackBehavior;
+import chapter_01_strategy.duck_example.behavior.fly.FlyBehavior;
+import chapter_01_strategy.duck_example.behavior.quack.QuackBehavior;
 
 public abstract class Duck {
     FlyBehavior flyBehavior;
