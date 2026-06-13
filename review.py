@@ -1,6 +1,6 @@
 import os
 
-USE_LLM = True
+USE_LLM = False
 
 def read_diff():
     try:
