@@ -31,7 +31,7 @@ jobs:
       - name: Run AI Review
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
-        run: python agent/runner.py
+        run: python -m agent.runner
 
       - name: Comment on PR
         uses: marocchino/sticky-pull-request-comment@v2
